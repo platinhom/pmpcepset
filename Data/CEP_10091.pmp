@@ -1,0 +1,60 @@
+REMARK 111 MOLP: SMILES: s: c1cnc(s1)-c1cc2sccc2s1
+REMARK 111 MOLP: PCE: f:   1.340969
+REMARK 111 MOLP: HOMO: f:  -0.289980
+REMARK 111 MOLP: LUMO: f:   0.066260
+REMARK 111 MOLP: GAP: f:   0.356240
+REMARK 111 MOLP: Area_F: f:     0.0000
+REMARK 111 MOLP: Area_C: f:    65.7479
+REMARK 111 MOLP: Area_CL: f:     0.0000
+REMARK 111 MOLP: Area_N: f:    10.0249
+REMARK 111 MOLP: Area_O: f:     0.0000
+REMARK 111 MOLP: Area_H: f:    55.4790
+REMARK 111 MOLP: Area_I: f:     0.0000
+REMARK 111 MOLP: Area_SE: f:     0.0000
+REMARK 111 MOLP: MolVolume: f:   179.6560
+REMARK 111 MOLP: Area_P: f:     0.0000
+REMARK 111 MOLP: Area_BR: f:     0.0000
+REMARK 111 MOLP: Area_S: f:    65.8002
+REMARK 111 MOLP: MolArea: f:   197.0520
+REMARK 111 MOLP: Area_SI: f:     0.0000
+REMARK 111 MOLP: ElecSolvEng: f:  -7.598838
+REMARK 111 MOLP: Dipole: f:   0.340762
+REMARK 111 MOLP: Quadrupole: f:  19.852178
+REMARK 666 LABELS|PMP_INFO:80s|AtomArea:10f|AT_gaff:6s|resp:10f|mbondi:10f|Dipole:10f|Quadrupole:10f|AtomSolEng:10f
+ATOM      1  C1  MOL     1      -4.304   0.135   0.000 3    2    5   14      C      8.5249    cc   -0.3804    1.7000  0.419966  1.484156 -0.511278
+ATOM      2  C2  MOL     1      -3.789   1.373  -0.000 3    1    3   15      C      8.9209    cd    0.0803    1.7000  0.163935  1.095710  0.324644
+ATOM      3  N1  MOL     1      -2.421   1.459  -0.000 2    2    4           N     10.0249    nd   -0.5107    1.5500  0.642727  1.081442 -4.667347
+ATOM      4  C3  MOL     1      -1.881   0.295  -0.000 3    3    5    6      C      6.5588    cc    0.6037    1.7000  0.580006  1.193527  3.470194
+ATOM      5  S1  MOL     1      -3.020  -1.020   0.000 2    1    4           S     21.3205    ss    0.0082    1.8000  1.135237  2.270062  0.022559
+ATOM      6  C4  MOL     1      -0.429   0.101  -0.000 3    4    7   13      C      5.6281    cc   -0.4634    1.7000  0.510117  1.467559 -2.857976
+ATOM      7  C5  MOL     1       0.481   1.099   0.000 3    6    8   16      C      8.1757    cd    0.1490    1.7000  0.115137  1.162883  0.596077
+ATOM      8  C6  MOL     1       1.814   0.589   0.000 3    7    9   12      C      5.7838    cd   -0.1543    1.7000  0.564032  1.352788 -0.712991
+ATOM      9  S2  MOL     1       3.395   1.301   0.000 2    8   10           S     23.0185    ss    0.0016    1.8000  1.145701  2.368753  0.006228
+ATOM     10  C7  MOL     1       4.121  -0.279   0.000 3    9   11   17      C      8.5088    cd   -0.2476    1.7000  0.431054  1.437131 -0.451047
+ATOM     11  C8  MOL     1       3.226  -1.283  -0.000 3   10   12   18      C      8.3464    cc   -0.3613    1.7000  0.126913  1.230225 -0.576412
+ATOM     12  C9  MOL     1       1.888  -0.771  -0.000 3    8   11   13      C      5.3006    cc    0.3422    1.7000  0.539895  1.324718  1.342977
+ATOM     13  S3  MOL     1       0.312  -1.488  -0.000 2    6   12           S     21.4612    ss   -0.0839    1.8000  1.164561  2.455626 -0.411111
+ATOM     14  H1  MOL     1      -5.331  -0.163   0.000 1    1                H     11.2939    h4    0.2556    1.3000  0.109081  0.203934 -1.162386
+ATOM     15  H2  MOL     1      -4.362   2.279  -0.000 1    2                H     11.0938    h4    0.1414    1.3000  0.120221  0.172306 -0.088835
+ATOM     16  H3  MOL     1       0.207   2.135   0.000 1    7                H     10.3857    ha    0.1304    1.3000  0.108352  0.163552  0.095841
+ATOM     17  H4  MOL     1       5.188  -0.369   0.000 1   10                H     11.1763    h4    0.2492    1.3000  0.111111  0.198648 -1.066154
+ATOM     18  H5  MOL     1       3.488  -2.323  -0.000 1   11                H     11.5293    ha    0.2402    1.3000  0.120360  0.177752 -0.951821
+CONECT    1    2    2    5   14
+CONECT    2    1    1    3   15
+CONECT    3    2    4    4
+CONECT    4    3    3    5    6
+CONECT    5    1    4
+CONECT    6    4    7    7   13
+CONECT    7    6    6    8   16
+CONECT    8    7    9   12   12
+CONECT    9    8   10
+CONECT   10    9   11   11   17
+CONECT   11   10   10   12   18
+CONECT   12    8    8   11   13
+CONECT   13    6   12
+CONECT   14    1
+CONECT   15    2
+CONECT   16    7
+CONECT   17   10
+CONECT   18   11
+END
